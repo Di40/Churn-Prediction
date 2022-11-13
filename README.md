@@ -1,5 +1,7 @@
 # Churn-Prediction
 
+Date: 30.09.2021
+
 Problem statement: You are given data of 1.000 users for period of 3 years. The data includes information about the phone calls, SMSes and data usage for each user during their subscription period. Your task is to make a model that based on the history of the user, predicts whether the user will terminate the subscription or not.
 
 You are given the following 6 files:
